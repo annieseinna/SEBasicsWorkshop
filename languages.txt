@@ -1,4 +1,4 @@
-Annie and Maceo
+Annie (anniettran@vt.edu) and Maceo (maceo@vt.edu)
 What is your favorite programming language? Why?
 Annie: Favorite programming language is Java and I like it because it's object-oriented
 Maceo: GoLang because it's easy to use and fast
