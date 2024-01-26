@@ -1,17 +1,22 @@
 
 public void fizzbuzz() {
-  for (int i = 1; i < 20; i++) {
-    if (i % 3 == 0) {
+  for (int i = 1; i < 21; i++) {
+
+    if (i % 5 == 0 && i % 3 == 0) {
+      System.out.println("FizzBuzz");
+      System.out.prinln();
+    }
+    else if (i % 3 == 0) {
       System.out.println("Fizz");
+      System.out.prinln();
     }
     else if (i % 5 == 0) {
       System.out.println("Buzz");
-    }
-    else if (i % 5 == 0 && i % 3 == 0) {
-      System.out.println("FizzBuzz");
+      System.out.prinln();
     }
     else {
       System.out.println(i);
+      System.out.prinln();
     }
   }
 }
